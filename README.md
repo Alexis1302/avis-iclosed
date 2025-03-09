@@ -1,6 +1,17 @@
 # Avis iClosed
 
 Dans le vaste univers des outils de gestion des ventes, iClosed se démarque par sa capacité à transformer les prospects en clients fidèles. Lorsque vous jonglez avec des leads éparpillés et des systèmes de réservation peu performants, l'efficacité de votre équipe de vente peut en pâtir. Ici entre en scène iClosed, un outil révolutionnaire qui promet de doubler vos taux de conversion grâce à son approche novatrice. Explorez avec nous comment cet outil de gestion et de closing peut devenir indispensable à votre stratégie commerciale.
+
+| Caractéristique | Détail |
+| --- | --- |
+| **🪪 Nom du fondateur** | Ismaël Esn |
+| **📅 Date de création** | Mars 2023 |
+| **👥 Nombre de clients** | +25 000 clients |
+| **⌛ Essai gratuit** | Oui |
+| **💰 Prix mensuel** | A partir de 49 $ |
+| **🤝 Équipe** | 11 développeurs |
+| **⭐ Note moyenne des clients** | 4/5 (TrustPilot) |
+
 ![image](https://github.com/user-attachments/assets/04630e3d-7bc9-4c10-b54c-876b459b3051)
 
 ## Découvrir les Fonctionnalités d'iClosed
