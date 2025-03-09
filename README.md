@@ -23,6 +23,9 @@ Dans le vaste univers des outils de gestion des ventes, iClosed se démarque par
 
 Le scheduler d'iClosed est conçu pour maximiser l'efficacité du processus de réservation. En amenant les prospects à fournir leurs informations avant même de voir les disponibilités, vous obtenez un avantage considérable. Non seulement cela augmente le nombre de leads qualifiés, mais cela réduit également les abandons de formulaire. Ce processus rend votre prise de rendez-vous plus fluide et efficace, augmentant ainsi vos chances de convertir chaque lead en client.
 
+![image](https://github.com/user-attachments/assets/6d866504-8e17-4ce9-ae9f-9797a8149a83)
+
+
 ### Une Qualification des Prospects Personnalisée
 
 L'une des forces d'iClosed est sa capacité à qualifier les prospects de manière ciblée. Grâce à un formulaire de qualification personnalisable, vous pouvez filtrer les leads dès le départ, assurant que seuls ceux qui apportent de la valeur à votre entreprise passent à l'étape suivante. Ce niveau de qualification permet de concentrer les efforts de votre équipe commerciale sur les prospects les plus prometteurs.
