@@ -12,11 +12,12 @@ Dans le vaste univers des outils de gestion des ventes, iClosed se démarque par
 | **🤝 Équipe** | 11 développeurs |
 | **⭐ Note moyenne des clients** | 4/5 (TrustPilot) |
 
-![image](https://github.com/user-attachments/assets/04630e3d-7bc9-4c10-b54c-876b459b3051)
 
 ## Découvrir les Fonctionnalités d'iClosed
 
 **iClosed** se distingue par ses fonctionnalités uniques conçues pour redéfinir la manière dont les équipes gèrent leurs prospects et maximisent leurs opportunités de vente. Voici un aperçu détaillé de ce qu'il propose :
+
+![image](https://github.com/user-attachments/assets/04630e3d-7bc9-4c10-b54c-876b459b3051)
 
 ### Scheduler Optimisé pour une Conversion Maximale
 
